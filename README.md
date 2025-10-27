@@ -38,13 +38,13 @@ Containers are manageable packages of applications. In other words, they are iso
 
 - Ideal for tasks that require usage time > 15 minutes;
 
-- Ideal when executing a code outside an AWS region;
+- Ideal when executing code outside an AWS region;
 
 
 
 ### 🤔What is a Cluster on AWS?
 
-According to \[AWS Cluster Documentation](https://docs.aws.amazon.com/AmazonECS/latest/APIReference/API\_Cluster.html), a cluster is a regional grouping of container instances where task requests are run. A cluster can keep one or multiple containers.
+According to [AWS Cluster Documentation](https://docs.aws.amazon.com/AmazonECS/latest/APIReference/API\_Cluster.html), a cluster is a regional grouping of container instances where task requests are run. A cluster can keep one or multiple containers.
 
 
 
@@ -64,7 +64,7 @@ According to \[AWS Cluster Documentation](https://docs.aws.amazon.com/AmazonECS/
 
 An ECR is a "storage" of containers that will be deployed on ECS.
 
-![Flowchart explaining ECR](Deployment\_of\_container.png)
+![Flowchart explaining ECR](Deployment_of_container.png)
 
 
 
