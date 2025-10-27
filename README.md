@@ -20,7 +20,7 @@ Microservices Model: Each function has its own code and operates independently o
 
 
 
-![Microservices and Monolith](Difference\_Between\_Architectures.png)
+![Microservices and Monolith](Difference_Between_Architectures.png)
 
 
 
@@ -48,11 +48,11 @@ According to \[AWS Cluster Documentation](https://docs.aws.amazon.com/AmazonECS/
 
 
 
-![Cluster and Containers Flowchart](Cluster\_and\_Containers.png)
+![Cluster and Containers Flowchart](Cluster_and_Containers.png)
 
 
 
-[On AWS website](https://docs.aws.amazon.com/AmazonECS/latest/APIReference/API\_Cluster.html)
+[On AWS website](https://docs.aws.amazon.com/AmazonECS/latest/APIReference/API_Cluster.html)
 
 
 
